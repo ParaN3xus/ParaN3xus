@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ParaN3xus
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning algorithm.
 - 💞️ I’m looking to collaborate on anything I like.
 - 📫 How to reach me: paran3xus@outlook.com
 
