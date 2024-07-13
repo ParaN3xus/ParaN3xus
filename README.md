@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ParaN3xus
-- 👀 I’m interested in coding.
-- 💞️ I’m looking to collaborate on anything I like.
-- 📫 How to reach me: paran3xus@outlook.com
+👋 Hi, I’m @ParaN3xus3
 
-<!---
-ParaN3xus/ParaN3xus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me at paran3xus@outlook.com.
+
+[![ParaN3xus's GitHub stats](https://github-readme-stats.vercel.app/api?username=paran3xus)](https://github.com/anuraghazra/github-readme-stats)
